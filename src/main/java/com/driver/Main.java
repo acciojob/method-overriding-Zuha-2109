@@ -23,11 +23,11 @@ public class Main {
     }
     public static void main(String[] args){
 
-        A a = new A();
-        System.out.println(a.meth());
+        A obj1 = new A();
+        System.out.println(obj1.meth());
 
-        B b = new B();
-        System.out.println(b.meth());
+        B obj = new B();
+        System.out.println(obj.meth());
 
 
     }
