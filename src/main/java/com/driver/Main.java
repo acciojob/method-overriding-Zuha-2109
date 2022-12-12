@@ -26,10 +26,8 @@ public class Main {
         A a = new A();
         a.meth();
 
-
-
-        B b1 = new B();
-        b1.meth();
+        B b = new B();
+        b.meth();
 
 
     }
